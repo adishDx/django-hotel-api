@@ -1,8 +1,7 @@
-U1456168
-Husain Patel
+Adish Jain
 Django
 
-** Hotel App **
+** Hotel API **
 
 Current Features:
 
